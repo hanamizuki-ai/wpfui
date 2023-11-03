@@ -140,7 +140,7 @@
                         <Trigger Property="IsEnabled" Value="False">
                             <Setter Property="Foreground">
                                 <Setter.Value>
-                                    <SolidColorBrush Color="{DynamicResource ComboBoxItemForeground}" />
+                                    <SolidColorBrush Color="{DynamicResource TextFillColorDisabled}" />
                                 </Setter.Value>
                             </Setter>
                         </Trigger>

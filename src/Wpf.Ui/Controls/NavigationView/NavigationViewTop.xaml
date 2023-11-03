@@ -197,7 +197,7 @@
                         <TranslateTransform />
                     </Border.RenderTransform>
                     <Border.Background>
-                        <SolidColorBrush Color="{DynamicResource FlyoutBorderBrush}" />
+                        <SolidColorBrush Color="{DynamicResource SurfaceStrokeColorFlyout}" />
                     </Border.Background>
 
                     <Border.Effect>
